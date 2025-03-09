@@ -1,2 +1,2 @@
 # astro_boilerplate
-Apreconfigured boilerplate for Astro projects
+A preconfigured boilerplate for Astro projects
